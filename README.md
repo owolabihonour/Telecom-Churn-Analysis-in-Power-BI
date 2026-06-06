@@ -16,7 +16,7 @@ This project investigates *why* customers are leaving Databel and surfaces actio
 ![Customer Churn Overview](OVERVIEW_DASHBOARD.png)
 
 ### Customer Behaviour Overview
-![Customer Behaviour Overview](CUSTOMER_BEHAVIOUR_OVERVIEW.png)
+![Customer Behaviour Overview](CUSTOMER_BEHAVIOUR_OVERVIEW.png) https://github.com/owolabihonour/Telecom-Churn-Analysis-in-Power-BI/blob/138ec0d6666c8d4e50ffa8ac574c2e456c3e50a0/CUSTOMER%20BEHAVIOUR%20OVERVIEW.png
 
 ---
 
